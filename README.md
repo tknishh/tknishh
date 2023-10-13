@@ -1,373 +1,69 @@
-## Hi, I’m Ifeanyi Nneji <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
-</p>
+<!-- Intro -->
 
-<p align ="center">
-  <a  href="https://ifeanyinneji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
-  <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
-  </a>	
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- 
-  </a>  
-  <a href="https://twitter.com/Neji_14" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
+<!--<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
+</p>-->
 
-  <a href="https://medium.com/@ifeanyinneji777" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
-    </a>
-  </p>
+<h3 align="center">Hi! I'm Tanish Khandelwal</h3>
+<h3 align="center">Data Engineer</h3>
 
-
-<p >I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁
-</p>
-
-
-
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
-
-### Languages 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  
-  <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-
-  <a href="" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
- 
-  <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  </a>
-</p>
-
-### Database Tools
-<p
-     <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
-
-</p>
-  
-### Visualisation Tools
-<p  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
-  </a>
-</p>
-  
-### Development Tools
-<p
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
-  </a>
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white">
-  </a>
-  <a href="https://linux.com/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-  
-</p>
-
-
-### Data Manipulation Tools
-<p  
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  </a>
-
- </p>
-  
-
-### Machine Learning Tools
-<p
-   <a href="" target="_blank">
-    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
-
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-   </a>
-
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-   </a>
-
-   <a href="https://pytorch.org/" target="_blank">
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=Pytorch&logoColor=white">
-   </a>
-
-
+<h3 align="center">About Me :</h3>  
+ <p>
+<div align="center">
+<br>  Working as a Data Engineer.
+<br>  Writing data-related articles on Medium
+<br>  Coding advanced Python scripts and SQL queries
+<br>  Developing lots of complicated data engineering projects
+<br>  Creating many different types of data pipelines
+</div>
  </p>
 
-### Backend Tools
-<p
-  
-  <a href="" target="_blank">
-    <img alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-  </a>
-  <a href="" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
+<!-- Socials --> 
 
-
- </p>
- 
- ### Cloud Platforms
-<p
-   
-  <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
-  <a href="" target="_blank">
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-   <a href="" target="_blank">
-    <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  </a> 
-  <a href="" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  </a>
-  <a href="" target="_blank">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-
-
-
-
-
-  
-</p>
- 
-
-<!--
-### Automation Tools
-<p
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  </a>
-
- </p>
-
--->
-
-## Projects
-
-<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
-
-</a>  
-
-<a href="https://github.com/Nneji123/Alien-Shooter">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
-
-</a> 
-
-<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/FIFA-22-Player-Analysis">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
-
+<h3 align="center">Connect with me:</h3>  
+<div align="center">
+<a href="https://www.linkedin.com/in/tknishh/" target="blank">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
 
-<a href="https://github.com/Nneji123/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
-
+<a href="https://medium.com/@tknishh" target="blank">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="https://github.com/Nneji123/Dog-Breed-Prediction-Streamlit-App">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Dog-Breed-Prediction-Streamlit-App&theme=dark" />
-
+<a href="mailto:tanishkhandelwaltk012@gmail.com" target="blank">
+<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
 </a>
 
-<a href="https://github.com/Nneji123/Streamlit-Web-App-Projects">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
-
+<a href="https://www.upwork.com/freelancers/~0182dfcb77e919d34a" target="blank">
+<img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
 </a>
 
-## Check out my recent Articles :smile:
+</div>
 
-<p
+<!-- Tech Stack --> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0" alt="Recent Article 0">
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1" alt="Recent Article 1">
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2" alt="Recent Article 2"></a>
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3" alt="Recent Article 3"></a>
- 
- <!---
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4" alt="Recent Article 4">
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5" alt="Recent Article 5">
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6" alt="Recent Article 6">
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7" alt="Recent Article 7">
--->
-</p>
-	 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
-  <br/>
-
-</details>
-
-<details>
-  <summary><b>⚡ GitHub Contribution Streak</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
-  <br/>
-
-</details>
-
-
-<br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-## What I'm Currently Listening To
-
+<h3 align="Center">Tech Stack:</h3>  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
-      alt="example"> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
+<a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
+<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a>
+<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>
+<a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>
+<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
+<a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a>
+<a href="https://flink.apache.org/" target="_blank"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-flink-logo.png" alt="flink"  style="height: 3rem"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
 </p>
-
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
-![](https://hit.yhype.me/github/profile?user_id=101701760)
-
-
-
-<!---
-## About Me
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Machine Learning and Data Science using python
-- 💞️ I’m looking to collaborate on any development project 
-- 📫 How to reach me: ifeanyinneji777@gmail.com
-- >
-
-
-
