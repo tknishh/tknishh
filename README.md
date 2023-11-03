@@ -1,10 +1,9 @@
 <!-- Intro -->
 
-<!--<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
-</p>-->
-
 <h3 align="center">Hi! I'm Tanish Khandelwal</h3>
+<div align="center">
+  <img src="https://github.com/tknishh/tknishh/blob/main/gifs/haikyuu.gif">
+</div>
 <h3 align="center">Data Engineer</h3>
 
 <h3 align="center">About Me :</h3>  
