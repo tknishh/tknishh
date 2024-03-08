@@ -1,48 +1,73 @@
 <!-- Intro -->
-
-<h3 align="center">Hi! I'm Tanish Khandelwal</h3>
-<div align="center">
+<div align="left">
   <img src="https://github.com/tknishh/tknishh/blob/main/gifs/haikyuu.gif">
 </div>
-<h3 align="center">Data Engineer</h3>
 
-<h3 align="center">About Me :</h3>  
- <p>
-<div align="center">
-<br>  Working as a Data Engineer.
-<br>  Writing data-related articles on Medium
-<br>  Coding advanced Python scripts and SQL queries
-<br>  Developing lots of complicated data engineering projects
-<br>  Creating many different types of data pipelines
-</div>
- </p>
+### Hey there :wave:
 
-<!-- Socials --> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Tanish+Khandelwal)](https://git.io/typing-svg)
 
-<h3 align="center">Connect with me:</h3>  
-<div align="center">
-<a href="https://www.linkedin.com/in/tknishh/" target="blank">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
+###### Glad to see you here 👍
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tknishh&label=Views&color=blue&style=plastic" alt="tknishh" /> </p>
+
+#### Socials ☕
+
+<a href="https://linktr.ee/tknishh">
+  <kbd>
+  <img align="centre" alt="Tanish's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
+</a>
+   
+ <a href="https://linkedin.com/in/tknishh">
+  <kbd>
+  <img align="centre" alt="Tanish's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-<a href="https://medium.com/@tknishh" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
+ <a href="https://medium.com/@tknishh">
+  <kbd>
+  <img align="centre" alt="Tanish's Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" />
+</a>
+  
+ <a href="https://www.instagram.com/k_tanish/">
+  <kbd>
+  <img align="centre" alt="Tanish's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+</a>
+  
+<a href="https://twitter.com/tknishh">
+<kbd>
+<img align="centre" alt="Tanish's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
+</a>
+ 
+<a href="https://t.me/tknishh">
+  <kbd>
+  <img align="centre" alt="Tanish's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
+</a>
+ 
+<a href="https://devfolio.co/@tknishh">
+  <kbd>
+  <img align="centre" alt="Tanish's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
 
 <a href="mailto:tanishkhandelwaltk012@gmail.com" target="blank">
-<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
+  <kbd>
+<img align="centre" alt="Tanish's Devfolio" width="22px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
 </a>
 
-<a href="https://www.upwork.com/freelancers/~0182dfcb77e919d34a" target="blank">
-<img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
-</a>
+<br/>
+<br/>
 
-</div>
+### About Me 🙆
+
+- 🏢 I am a Python Developer Intern at [AI Planet](https://aiplanet.com/)
+- 🏫 2024 B.Tech. CSE graduate from JUET, Madhya Pradesh
+- 💻 Former Intern at [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
+- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/tknishh)
+
 
 <!-- Tech Stack --> 
 
-<h3 align="Center">Tech Stack:</h3>  
-<p align="center">
+### Tech Stack: 👨‍💻
+<p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
 <a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
