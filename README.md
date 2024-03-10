@@ -6,11 +6,14 @@
 ### Hey there :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Tanish+Khandelwal)](https://git.io/typing-svg)
 
-###### Glad to see you here 👍
+### About Me 🙆
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tknishh&label=Views&color=blue&style=plastic" alt="tknishh" /> </p>
+- 🏢 I am a Python Developer Intern at [AI Planet](https://aiplanet.com/)
+- 🏫 2024 B.Tech. CSE graduate from JUET, Madhya Pradesh
+- 💻 Former Intern at [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
+- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/tknishh)
 
-#### Socials ☕
+### Socials ☕
 
 <a href="https://linktr.ee/tknishh">
   <kbd>
@@ -53,16 +56,6 @@
 </a>
 
 <br/>
-<br/>
-
-### About Me 🙆
-
-- 🏢 I am a Python Developer Intern at [AI Planet](https://aiplanet.com/)
-- 🏫 2024 B.Tech. CSE graduate from JUET, Madhya Pradesh
-- 💻 Former Intern at [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/tknishh)
-
-
 <!-- Tech Stack --> 
 
 ### Tech Stack: 👨‍💻
@@ -90,3 +83,7 @@
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
 </p>
+
+###### Glad to see you here 👍
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tknishh&label=Views&color=blue&style=plastic" alt="tknishh" /> </p>
