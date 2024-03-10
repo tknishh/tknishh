@@ -1,10 +1,9 @@
 <!-- Intro -->
-<div align="left">
+<div align="Center">
   <img src="https://github.com/tknishh/tknishh/blob/main/gifs/haikyuu.gif">
 </div>
 
 ### Hey there :wave:
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Tanish+Khandelwal)](https://git.io/typing-svg)
 
 ###### Glad to see you here 👍
