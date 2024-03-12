@@ -59,30 +59,45 @@
 <!-- Tech Stack --> 
 
 ### Tech Stack: 👨‍💻
-<p align="left">
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
-<a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
-<a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
-<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a>
-<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>
-<a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>
-<a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>
-<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
-<a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a>
-<a href="https://flink.apache.org/" target="_blank"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-flink-logo.png" alt="flink"  style="height: 3rem"/> </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
-</p>
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoClor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Stats 💻
+![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=tknishh&count_private=true&show_icons=true&theme=dark&hide_gravatar=true&hide_logo=true&width=400&font=Roboto&title_color=#ffffff&title_font=Roboto&title_size=20&title_weight=bold&body_color=#ffffff&body_font=Roboto&body_size=14&body_weight=normal&border_color=#ffffff&border_width=2&border_radius=5&background_color=#000000&show_more=true&more_color=#ffffff&more_font=Roboto&more_size=14&more_weight=normal&more_background_color=#000000&more_border_color=#ffffff&more_border_width=2&more_border_radius=5&more_text_color=#ffffff&more_text_font=Roboto&more_text_size=14&more_text_weight=normal&show_title=true&show_body=true&show_more=true&show_border=true&show_gravatar=true&show_logo=true&show_icons=true&show_gravatar_border=true&show_gravatar_logo=true&show_gravatar_icon=true&show_gravatar_text=true&show_gravatar_background=true&show_gravatar_border_color=#ffffff&show_gravatar_logo_color=#ffffff&show_gravatar_icon_color=#ffffff&show_gravatar_text_color=#ffffff&show_gravatar_background_color=#000000&show_gravatar_border_width=2&show_gravatar_logo_width=2&show_gravatar_icon_width=2&show_gravatar_text_width=2&show_gravatar_background_width=2&show_gravatar_border_radius=5&show_gravatar_logo_radius=5&show_gravatar_icon_radius=5&show_gravatar_text_radius=5&show_gravatar_background_radius=5&show_g)
 
 ###### Glad to see you here 👍
 
