@@ -8,7 +8,7 @@
 
 ### About Me 🙆
 
-- 🏢 I am a Python Developer Intern at [AI Planet](https://aiplanet.com/)
+- 🏢 I am a Python Developer at [AI Planet](https://aiplanet.com/)
 - 🏫 B.Tech. CSE 2024 graduate from JUET, Madhya Pradesh.
 - 💻 Former Intern at [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/tknishh)
