@@ -99,6 +99,8 @@
 ### Stats 💻
 ![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=tknishh&count_private=true&show_icons=true&theme=dark&hide_gravatar=true&hide_logo=true&width=400&font=Roboto&title_color=#ffffff&title_font=Roboto&title_size=20&title_weight=bold&body_color=#ffffff&body_font=Roboto&body_size=14&body_weight=normal&border_color=#ffffff&border_width=2&border_radius=5&background_color=#000000&show_more=true&more_color=#ffffff&more_font=Roboto&more_size=14&more_weight=normal&more_background_color=#000000&more_border_color=#ffffff&more_border_width=2&more_border_radius=5&more_text_color=#ffffff&more_text_font=Roboto&more_text_size=14&more_text_weight=normal&show_title=true&show_body=true&show_more=true&show_border=true&show_gravatar=true&show_logo=true&show_icons=true&show_gravatar_border=true&show_gravatar_logo=true&show_gravatar_icon=true&show_gravatar_text=true&show_gravatar_background=true&show_gravatar_border_color=#ffffff&show_gravatar_logo_color=#ffffff&show_gravatar_icon_color=#ffffff&show_gravatar_text_color=#ffffff&show_gravatar_background_color=#000000&show_gravatar_border_width=2&show_gravatar_logo_width=2&show_gravatar_icon_width=2&show_gravatar_text_width=2&show_gravatar_background_width=2&show_gravatar_border_radius=5&show_gravatar_logo_radius=5&show_gravatar_icon_radius=5&show_gravatar_text_radius=5&show_gravatar_background_radius=5&show_g)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/?username=tknishh"><img src="https://github-profile-trophy.vercel.app/?username=tknishh" alt="tknishh" /></a> </p>
+
 ###### Glad to see you here 👍
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tknishh&label=Views&color=blue&style=plastic" alt="tknishh" /> </p>
