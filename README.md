@@ -8,9 +8,9 @@
 
 ### About Me 🙆
 
-- 🏢 I am a Python Developer at [AI Planet](https://aiplanet.com/)
+- 🏢 I am a Backend Engineer (GenAI) at [Dukaan®](https://mydukaan.io/)
 - 🏫 B.Tech. CSE 2024 graduate from JUET, Madhya Pradesh.
-- 💻 Former Intern at [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
+- 💻 Former Intern at [AI Planet](https://aiplanet.com/), [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/tknishh)
 
 ### Socials ☕
