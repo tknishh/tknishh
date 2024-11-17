@@ -8,7 +8,8 @@
 
 ### About Me 🙆
 
-- 🏢 I am a Backend Engineer (GenAI) at [Dukaan®](https://mydukaan.io/)
+- 🏢 I am a Python Developer (GenAI) at [The Good Glamm Group](https://goodglamm.com/)
+- 🏛️ Previously hacked and worked at [Dukaan®](https://mydukaan.io)
 - 🏫 B.Tech. CSE 2024 graduate from JUET, Madhya Pradesh.
 - 💻 Former Intern at [AI Planet](https://aiplanet.com/), [Fintricity](https://www.fintricity.com/), [Quodeck](https://quodeck.com/), [RecruitNXT](https://recruitnxt.com/), [Pensil](https://www.pensil.in/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/tknishh)
